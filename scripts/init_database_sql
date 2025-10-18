@@ -4,10 +4,16 @@ Use master;
 
 Create database DataWarehouse;
 
+
+--Create Schemas
+
 use datawarehouse;
 go
+
 Create schema Bronze;
 go
+
 Create schema Silver;
 go
+
 Create schema Gold;
