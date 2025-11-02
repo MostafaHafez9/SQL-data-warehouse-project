@@ -127,5 +127,5 @@ All scripts, datasets, and diagrams are included here.
 ## 🌐 Connect With Me
 
 I’d love to connect and share ideas about Data Analytics, Warehousing, and Power BI!  
-Let’s connect on **[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/mostafa-hafez-115b11241/))** 💼
+Let’s connect on **[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/mostafa-hafez-115b11241/)** 💼
 
